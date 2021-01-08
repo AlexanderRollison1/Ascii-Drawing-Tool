@@ -1,2 +1,2 @@
 # Ascii-Drawing-Tool
-We have a Graph scale-changeable matrix that we are able to fill in with any ascii characters we want. 
+We have a Graph scale-changeable matrix that we are able to fill in with any ascii characters we want. Full Desc in PDF/MP4s
