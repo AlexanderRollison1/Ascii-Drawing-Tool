@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800
+//Alexander Rollison
 
 #ifndef _Drawtool_H
 #define _Drawtool_H
