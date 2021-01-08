@@ -1,5 +1,5 @@
-#Alexander Rollison 1001681800
-SRC1 = Code4_1001681800.c
+#Alexander Rollison
+SRC1 = Code4.c
 SRC2 = Drawtool.c
 OBJ1 = $(SRC1:.c=.o)
 OBJ2 = $(SRC2:.c=.o)
